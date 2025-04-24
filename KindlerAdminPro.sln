@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KindlerAdminPro.Host", "KindlerAdminPro.Host\KindlerAdminPro.Host.csproj", "{5C5014EA-5856-4947-8A52-263ED8155BA3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KindlerAdminPro.Identity", "KindlerAdminPro.Identity\KindlerAdminPro.Identity.csproj", "{77D7E66F-FC6A-4220-94BB-C45E219B865B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KindlerAdminPro.Payroll", "KindlerAdminPro.Payroll\KindlerAdminPro.Payroll.csproj", "{68BE974F-3122-41A0-A77A-0A3A69216C12}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KindlerAdminPro.Enrollment", "KindlerAdminPro.Enrollment\KindlerAdminPro.Enrollment.csproj", "{1C90C14C-6CC0-455B-B9E1-D7F97193035A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5C5014EA-5856-4947-8A52-263ED8155BA3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C5014EA-5856-4947-8A52-263ED8155BA3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5C5014EA-5856-4947-8A52-263ED8155BA3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5C5014EA-5856-4947-8A52-263ED8155BA3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{77D7E66F-FC6A-4220-94BB-C45E219B865B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{77D7E66F-FC6A-4220-94BB-C45E219B865B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{77D7E66F-FC6A-4220-94BB-C45E219B865B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{77D7E66F-FC6A-4220-94BB-C45E219B865B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{68BE974F-3122-41A0-A77A-0A3A69216C12}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{68BE974F-3122-41A0-A77A-0A3A69216C12}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{68BE974F-3122-41A0-A77A-0A3A69216C12}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{68BE974F-3122-41A0-A77A-0A3A69216C12}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1C90C14C-6CC0-455B-B9E1-D7F97193035A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C90C14C-6CC0-455B-B9E1-D7F97193035A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C90C14C-6CC0-455B-B9E1-D7F97193035A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C90C14C-6CC0-455B-B9E1-D7F97193035A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
